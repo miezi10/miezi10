@@ -1,14 +1,14 @@
 
-### I'm Paulo!
-## Welcome to my profile! How is it going? 👋 👋
+### Hi there 👋, I'm Paulo!
+### Welcome to my profile! How is it going? 👋 👋
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/PauloMiezi?style=social)](https://twitter.com/PauloMiezi)
 [![GitHub followers](https://img.shields.io/github/followers/miezi10?style=social)](https://github.com/miezi10)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/miezi-1596/)
 
-Hi! I'm a developer that loves create new things!
-Currently I'm learning and trying to expand my knowledge, end my favorite Stack is 💻 Node, ReactJS, React Native, Typescript
-Ask me about C#, JAVA
+- 🔭 I'm a developer that loves create new things!
+- 🌱 I'm Currently learning and trying to expand my knowledge, end my favorite Stack is 💻 Node, ReactJS, React Native, Typescript
+- 💬 Ask me about C#, JAVA...
 
 **Languages and Tools:**
 
