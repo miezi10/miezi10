@@ -25,6 +25,6 @@
 <a href="https://github.com/miezi10/github-readme-stats">
   <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=miezi10&layout=compact&show_icons=true&theme=solarized-dark" />
 </a>
-<a href="https://github.com/Paulomiezi1/convoychat">
+<a href="https://github.com/miezi10/convoychat">
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miezi10&layout=compact&theme=solarized-dark&hide=HTML" />
 </a>
