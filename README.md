@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Paulo!
+### Hi there 👋, I'm Miezi!
 ### Welcome to my profile! How is it going? 👋 👋
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/PauloMiezi?style=social)](https://twitter.com/PauloMiezi)
